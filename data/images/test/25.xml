@@ -1,7 +1,7 @@
 <annotation>
 	<folder>junction</folder>
-	<filename>15.jpg</filename>
-	<path>/home/alsarmi/Dropbox/KTH_Classes/Project_Course_Drone/dd2419_ws/src/milestone2/scripts/junction/15.jpg</path>
+	<filename>25.jpg</filename>
+	<path>/home/alsarmi/Dropbox/KTH_Classes/Project_Course_Drone/dd2419_ws/src/milestone2/scripts/junction/25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>175</xmin>
-			<ymin>88</ymin>
-			<xmax>405</xmax>
-			<ymax>395</ymax>
+			<ymin>84</ymin>
+			<xmax>431</xmax>
+			<ymax>389</ymax>
 		</bndbox>
 	</object>
 </annotation>
