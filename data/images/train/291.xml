@@ -1,0 +1,26 @@
+<annotation>
+	<folder>junction</folder>
+	<filename>291.jpg</filename>
+	<path>/home/alsarmi/Dropbox/KTH_Classes/Project_Course_Drone/dd2419_ws/src/milestone2/scripts/junction/291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>554</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>junction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>115</ymin>
+			<xmax>393</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
